@@ -6,4 +6,4 @@ class Question {
   }
 }
 
-module.exports = Find();
+module.exports = Find
