@@ -2,8 +2,8 @@
 
 class Question {
   static Find(){
-    
+
   }
 }
 
-.module.exports = Find;
+module.exports = Find;
